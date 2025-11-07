@@ -30,7 +30,7 @@ body {
     gap: 1rem;
 }
 
-img {
+.image-gallery img {
     max-width: 150px;
     height: auto;
 }
