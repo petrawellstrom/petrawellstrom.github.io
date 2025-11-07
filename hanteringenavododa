@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hanteringen av odöda av John Ajvide Lindqvist</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section class="content">
+        <h1>Hanteringen av odöda av John Ajvide Lindqvist</h1>
+    <p>En ovanligt het augustikväll i Stockholm inträffar ett märkligt fenomen: ett elektriskt fält sveper över staden. Lampor kan inte släckas, maskiner går inte att stänga av, och människor plågas av huvudvärk. När fältet försvinner verkar allt normalt igen — men snart visar det sig att de döda har börjat vakna. <br><br>
+Den pensionerade journalisten Gustav Mahler, som nyligen förlorat sitt älskade barnbarn Elias, får ett samtal från en kontakt på Danderyds sjukhus. Döda människor har börjat röra på sig. Mahler beger sig till Elias grav, driven av hopp och desperation. <br><br>
+Men de återvändande döda är inte som i vanliga zombieberättelser — de är inte aggressiva, de vill bara komma hem och fortsätta som om inget har hänt. De är hjärndöda, men ändå levande. Samhället ställs inför en moralisk och praktisk kris: Hur hanterar man de odöda?</p>
+
+<ul class="my-list">
+
+<h2>Genre</h2>
+<li>Skräck</li>
+<li>Samhällsskildring</li>
+<li>Psykologisk realism</li>
+</ul>
+
+</section>
+</body>
+</html>
